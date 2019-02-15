@@ -5,7 +5,7 @@
    		|-splicing
    	   		|-splicing-01.png
    		|-normal
-   	    	|-normal-01.png
+   	    		|-normal-01.png
    	    	
 ## Packages
 * python 3.6
